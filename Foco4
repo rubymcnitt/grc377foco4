@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+<meta charset=”UTF-8”>
+
+<!-- THE TITLE WILL APPEAR IN THE BROWSER WINDOW OR TAB -->
+<title>    Just a Taste     </title>
+
+</head>
+
+<body>
+    <div class=”center”>
+        <img id=”logo” src=”images/logo.png” alt=”Just a Taste”>
+        <h1>Tasting for Time Wasting! Just A Taste delivers personalized wine tastings straight to your door./h1>
+        <h2>Founder: Ruby McNitt</h2>
+        <p>Check out some of our information in the links below.</p>
+       </div> <!--end of center div-->
+
+ <nav>
+        <ul>
+        <li><a href=”McNitt_FoCo3.pdf”> FoCo Brochure </a></li>
+        <li><a href=”https://news.besocialscene.com/wine-content/5-reasons-why-you-should-go-to-a-wine-tasting” target=”_blank”> 5 Reasons to go Wine Tasting </a></li>
+        <li><a href=”mailto:rmcnitt@calpoly.edu”> Email Us </a></li>
+        </ul>
+       </nav> 
+
+
+</body>
+height: 100%;
+width: 100%;
+padding: 0;
+margin: 0;
+background-image: url(“backgroundimg.jpg”);
+background-size: cover;
+background-repeat: no-repeat;
+	 background-attachment: fixed;
+background-position: center;
+</html>
